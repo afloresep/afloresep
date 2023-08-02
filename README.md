@@ -14,7 +14,7 @@ During my internship at the Department of Pharmaceutical Chemistry, I provided s
 #### Research Internship - Hospital 12 de Octubre (Sep 2021 – Apr 2023)
 As a research intern, I worked on a project investigating the potential connection between malaria and multiple myeloma (MM). Our findings suggest a potential link between Plasmodium falciparum infection and the development of MM, as some monoclonal antibodies produced by MM patients also recognize the parasite's protein. This experience provided me with valuable skills and knowledge in medical research.
 
-####cIntern Student - Universidad Complutense de Madrid (Feb 2021 – Apr 2023)
+#### Intern Student - Universidad Complutense de Madrid (Feb 2021 – Apr 2023)
 As an intern student in the Department of Biochemistry and Molecular Biology, I have been learning biochemical and cell culture techniques, further enhancing my skill set in the field.
 
 ### Skills
