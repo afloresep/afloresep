@@ -1,4 +1,4 @@
-I am Alejandro Flores, student with a keen interest in Computational Biology and Applied Machine Learning for drug discovery. I am currently pursuing a Pharmacy Degree at Universidad Complutense de Madrid. 
+I am Alejandro Flores, student with a keen interest in Computational Biology and Applied Machine Learning for drug discovery.
 
 ### Education
 Pharmacy Degree, Universidad Complutense de Madrid (2019 – 2024)
@@ -22,9 +22,7 @@ Docking
 Object-Oriented Programming (OOP)
 NumPy
 Molecular Dynamics
-Bioinformatics
 Machine Learning
-Applied Machine Learning
 
 ### Certifications
 - MOOC Machine Learning y Big Data para la Bioinformática. 3ª Edición - Universidad de Granada
