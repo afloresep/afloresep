@@ -30,4 +30,4 @@ Machine Learning
 - Machine Learning/AI Engineer Career Path - Codecademy
 
 #### Contact
-If you are interested in discussing potential PhD positions or collaborations in the fields of Computational Biology, Applied Machine Learning for drug discovery, or any related field, feel free to reach out to me via email at afloresep@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/afloresep/).
+If you are interested in discussing potential PhD positions or collaborations in the fields of Computational Biology, Applied Machine Learning for drug discovery, or any related field, feel free to reach out to me via email at afloresep01@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/afloresep/).
