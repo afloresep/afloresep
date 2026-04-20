@@ -10,7 +10,7 @@
   <a href="https://alejandro-flores.vercel.app">
       <img src="https://img.shields.io/badge/Website-alejandro--flores.vercel.app-red?style=flat-square">
   </a>
-  <a href="https://www.overleaf.com/read/REPLACE_ME">
+  <a href="https://www.overleaf.com/project/68cd3b3e72f2b5d2ef241ea1">
       <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
   </a>
   <a href="https://www.linkedin.com/in/afloresep/">
